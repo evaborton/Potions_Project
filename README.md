@@ -2,4 +2,4 @@
 
 Potions Class is a game to help players memorize 25 common polyatomic ions. Players must select the bottle labeled with the correct ion and drag it to the cauldron in the center.
 
-Note: Unfortunately, only the main script is available here, not the images it uses, because there are around 300 images used and github only allows 100 files in a repository.
+Note: Only the main script is available here, not the images it uses.
